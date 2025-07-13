@@ -275,3 +275,30 @@ main section div div form input[type="text"], form input[type="email"], form tex
 
 
 
+/* Footer Section */
+.footer-container{
+    width: 1440px;
+    height: 428px;
+}
+.footer-containers{
+    text-align: center;
+    padding: 103px 455px 104px 454px;
+}
+.logo-foot{
+    font-weight: bolder;
+    font-size: 5em;
+    padding: 0px 120px 8px 120px;
+}
+footer section div span{
+    font-size: 30px;
+
+}
+.link-align{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 65px 0px 65px;
+}
+footer section div a{
+    text-align: center;
+    text-decoration: none;
+}
