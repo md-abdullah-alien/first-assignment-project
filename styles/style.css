@@ -20,6 +20,8 @@
     margin: 0px;
 }
 
+
+
 /* Nav Styles */
 .nav-container{
     background-image: url(..//images/Hero-bg.png);
@@ -67,4 +69,40 @@
     width: 174px;
     height: 48px;
     border-radius: 10px;
+}
+
+
+/* Action Styles */
+
+.action-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 116px 159px 116px 141px;
+    
+}
+.action-contain{
+    width: 517px;
+    height: 203px;
+    padding: 62.5px 0px 62.5px 0px;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+}
+.action-description{
+    font-weight: normal;
+    font-size: 24px;
+}
+.action-btn{
+    font-size: px;
+    border: none;
+    color: white;
+    width: 229px;
+    height: 48px;
+    border-radius: 10px;
+}
+.action-img{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
 }
