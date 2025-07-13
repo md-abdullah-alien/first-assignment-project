@@ -204,3 +204,74 @@
 .foot-img{
     padding-right: 12px;
 }
+
+/* Ads Section */
+
+/* Form Section */
+.form-section{
+    width: 1140px;
+    height: 632px;
+    padding: 93px 150px 0px 150px;
+}
+.form-container{
+    display: flex;
+}
+.form-contain-02{
+    width: 497px;
+    height: 490px;
+}
+.form-title{
+    font-weight: bold;
+    font-size: 97px;
+    width: 528px;
+    height: 232px;
+    padding: 129px 115px 129px 0px;
+}
+
+
+.Email{
+    font-weight: normal;
+    font-size: 18px;
+    color: black;
+    width: 497px;
+    height: 102px;
+    padding-bottom: 19px;
+}
+.Name{
+    font-weight: normal;
+    font-size: 18px;
+    color: black;
+    width: 497px;
+    height: 102px;
+    padding-bottom: 19px;
+}
+.message{
+    font-weight: normal;
+    font-size: 18px;
+    color: black;
+    width: 497px;
+    height: 167px;
+    padding-bottom: 19px;
+}
+.form-btn{
+    width: 497px;
+    height: 62px;
+}
+.form-btn-text{
+    width: 95px;
+    height: 24px;
+}
+
+main section div div form input[type="text"], form input[type="email"], form textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    width: 100%;
+    padding: 0px 70px;
+    margin-bottom: 20px;
+    border: 2px solid gray;
+}
+
+
+
